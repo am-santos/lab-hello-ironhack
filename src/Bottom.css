@@ -1,0 +1,12 @@
+.bottom-section {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-evenly;
+  height: 40em;
+}
+
+.bottom-section img {
+  width: 10em;
+  height: 10em;
+}
